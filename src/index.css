@@ -235,7 +235,6 @@ Grocery List
 }
 .submit-btn {
   background: #a677de;
-  background: red;
   border-color: transparent;
   flex: 0 0 5rem;
   display: grid;
